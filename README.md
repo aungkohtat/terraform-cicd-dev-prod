@@ -110,7 +110,7 @@ git push -u origin production
 
 ![github-action](./images/Screenshot%202024-07-22%20at%2012.14.56 AM.png)
 
-### onfirm State Files in S3 separate folders for each environment
+### Confirm State Files in S3 separate folders for each environment
 
 ![s3](./images/Screenshot%202024-07-22%20at%2012.16.13 AM.png)
 
