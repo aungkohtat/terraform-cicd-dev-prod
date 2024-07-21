@@ -1,0 +1,11 @@
+name: Deploy to Production Manual Approval
+
+on:
+  workflow_dispatch:
+
+jobs:
+  approval:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for approval
+        run: echo "Waiting for manual approval..."
